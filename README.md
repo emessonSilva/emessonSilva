@@ -1,6 +1,6 @@
 ![header](https://github.com/emessonSilva/dio-lab-open-source/assets/140443316/b95518a5-0331-4713-af85-1cf1e287f9d1)
 
-I am a student of Systems Analysis and Development at Senac PE, and I am 21 years old.
+I am a student of Analysis and Systems Development at Senac PE, and I am 21 years old.
 I´m a passionate learner who´s always willing to learn and work across technologies and domains💡. I love to explore new technologies and leverage them to solve real-life problems✨.
 Apart from that I also love to guide and I´m currently into Web Development. 
 <br>
